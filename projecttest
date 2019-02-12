@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<h1>is tHis SitE </h1>
+
+</head>
+
+<body>
+
+<h1> ugly <em>enough</em> for you </h1>
+<h2> h2 </h2>
+<h3> h3 </h3>
+<h4> h4 </h4>
+<h5> guess who's failing marxism and culture </h5>
+
+<p> aw hell </p>
+<a href = "http://www.google.com"> why aren't you using duckduckgo</a>
+
+<p></p>
+<img src = "tree_inside.jpg" alt="tree inside my_website">
+<p></p>
+
+<img src = "C:\Users\attem\Desktop\Classes\2019_Winter\DIGHUM201 - Intro to Digital Humanities\tree.jpg" alt = "tree on desktop">
+<p></p>
+<img src = "tree.jpg" alt = "alt text for a failed tree since i didn't include the full path to an image that wasn't in the same folder as where my index.html file was at">
+
+<div class = "top">
+<h2>HELLA</h2>
+
+</body>
+</html>
