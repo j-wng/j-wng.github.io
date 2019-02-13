@@ -1,26 +1,13 @@
+body {
+  background-color: black;
+}
+
 h1 {
-  color: blue;
+  color: white;
   font-family:helvetica,arial,verdana;
 }
 
-p {
-  color: green;
-}
-
-#highlight {
-  color: blue;
-  background-color: purple;
-  border: 3px dotted blue;
-}
-
-.top {
-  background-color: blue;
-  float: right;
-}
-
-img {
-  border: 5px solid fuchsia;
-  width: 50%;
-  height: 50%;
-  margin-left:100px;
+ul {
+  color: white;
+  font-family:helvetica,arial,verdana;
 }
