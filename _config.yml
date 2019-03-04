@@ -3,8 +3,8 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            BlackDoc
-tagline:          Black Theme for Jekyll
+title:            j-wng
+tagline:          
 description:      "Never has there been a greater night of confusion."
 url:              https://github.com/karloespiritu/blackdoc
 baseurl:          /
