@@ -1,17 +1,16 @@
 ---
-
+layout: page
+title: About
 ---
 
 <p class="message">
-  Hi there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  THiS Is SuPposEd tO houSe my DIgitAl PorTfOLIO?!?!?!
 </p>
 
-## About BlackDoc Theme
+## Blurbing about what I've done with my life
 
-Some relevant information about this project:
+Oh wow so this is what .md files can do. I literally don't need any tagging? Or am I missing something.
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Theme based on [Poole](http://getpoole.com), the Jekyll butler, and the [Hyde](http://hyde.getpoole.com) theme
-* Ideal for sites requiring master-detail layout such as documentation, cheatsheets, lyrics, notes, etc.
-* Need a beautiful color scheme for black background? Then you will love BlackDoc theme.
+* Apparently you can attach a link just by [bracketing] text and including the URL after in parentheses.
+
 
