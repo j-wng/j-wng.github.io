@@ -42,8 +42,8 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'EB Garamond', serif;
-  color: #aaa;
+  font-family: 'EB Garamond', Georgia, serif;
+  color: #fafafa;
 }
 
 h1 a,
@@ -52,7 +52,7 @@ h3 a,
 h4 a,
 h5 a,
 h6 a {
-  font-family: 'EB Garamond', serif;
+  font-family: 'EB Garamond', Georgia, serif;
   color: #50585d;
   font-kerning: auto;
   font-feature-settings: "kern", "liga", "dlig", "hlig", "cswh";
