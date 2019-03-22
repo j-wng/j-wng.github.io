@@ -49,6 +49,12 @@ This project was built using data from the most recent update (March 11, 2019) o
 
 <p>
   <h5>
+    The section “High Profits, High Costs” utilizes the SIPRI’s records of the top 100 arms producers and military services providers (based on annual sales), covering 2002-2017. This data is readily available for download as an Excel spreadsheet. <i>Note: the axes for the visualizations in this section were mistaken labeled as “estimated profits” when they should have been “estimated sales”.</i>
+  </h5>
+</p>
+
+<p>
+  <h5>
     The online interface for requesting trade registries can only export the data into a Rich Text Format(.rtf) file. Such file types cannot be easily opened in a conventional spreadsheet software. Luckily, there is a <a href="https://gist.github.com/jsvine/9cb3300588ed402160fe">chunk of code on Github</a> that teaches people how to pull data from the SIPRI database into a .csv file. The code needed to be run in a Linux terminal, which could be done either through an emulator or a virtual machine (assuming that the computer is not already on a Linux OS). For this project, the script was run on a virtual machine built using VirtualBox. However, pulling the data in this manner led to the loss of certain data fields that were present in the original 1000-paged .rtf file, most importantly the “comments” section, which sometimes provided contextual details into a transaction such as whether the transaction was made as part of an aid program or whether the weapon being transferred was second hand. In the .csv file, some of this data pops up in a column titled “term”, but the value for this field is noted as “N/A” for 80% of the data entries. Some of the data in the other 20% are briefly discusses in the section “High Profits, High Costs”.
   </h5>
 </p>
